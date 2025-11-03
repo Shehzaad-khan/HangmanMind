@@ -20,7 +20,7 @@ A sophisticated AI agent that plays Hangman with a 94.40% success rate by combin
 | Name | SRN |
 |:----:|:---:|
 | **Mohammed Musharraf** | PES2UG23CS915 |
-| **Mohammed Shehzaad Khan** | PES2U23CS349 |
+| **Mohammed Shehzaad Khan** | PES2UG23CS349 |
 | **Mohammed Bilal** | PES2UG23CS344 |
 | **Mohammed Aahil** | PES2UG23CS342 |
 
